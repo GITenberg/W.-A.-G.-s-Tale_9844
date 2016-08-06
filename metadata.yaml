@@ -1,0 +1,33 @@
+_repo: W.-A.-G.-s-Tale_9844
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9844/9844-h/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- cover_type: archival
+  image_path: 9844/9844-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Turnbull, Margaret
+    deathdate: 1942
+    gutenberg_agent_id: '3170'
+    url: http://www.gutenberg.org/2009/agents/3170
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+- GITenberg
+title: W. A. G.'s Tale
+url: http://www.gutenberg.org/ebooks/9844
