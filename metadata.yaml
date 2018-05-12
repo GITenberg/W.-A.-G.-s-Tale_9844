@@ -1,14 +1,8 @@
 _repo: W.-A.-G.-s-Tale_9844
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 9844/9844-h/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 9844/9844-h/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turnbull, Margaret
@@ -16,6 +10,8 @@ creator:
     gutenberg_agent_id: '3170'
     url: http://www.gutenberg.org/2009/agents/3170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9844#W.-A.-G.-s-Tale
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
